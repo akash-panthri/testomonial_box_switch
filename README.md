@@ -1,1 +1,1 @@
-This is an Ui for testomonial box.
+This is UI for testomonial box.
